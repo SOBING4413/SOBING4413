@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hallo tod, gue **SOBING**
+# 👋 Hey, I'm **SOBING**
 
 ### 🎮 Roblox Developer · 💻 Web Developer · 🛠️ Script Engineer
 
@@ -101,22 +101,18 @@ Status:    🎯 Focusing
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/SOBING4413">
-  <img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" alt="SOBING's GitHub Stats" />
-</a>
-<a href="https://github.com/SOBING4413">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" alt="SOBING's GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
-
-<a href="https://github.com/SOBING4413">
   <img src="https://streak-stats.demolab.com/?user=SOBING4413&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</a>
-
 </div>
 
 ---
@@ -124,11 +120,7 @@ Status:    🎯 Focusing
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<a href="https://github.com/SOBING4413">
-  <img src="https://github-profile-trophy.vercel.app/?username=SOBING4413&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SOBING4413&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -136,11 +128,7 @@ Status:    🎯 Focusing
 ## 📈 Activity Graph
 
 <div align="center">
-
-<a href="https://github.com/SOBING4413">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOBING4413&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
-</a>
-
 </div>
 
 ---
@@ -157,10 +145,14 @@ Status:    🎯 Focusing
 
 </div>
 
-> 💡 **Setup Snake:** Buat file `.github/workflows/snake.yml` di repo ini, paste kode di bawah, lalu jalankan dari tab **Actions** > **Generate Snake** > **Run workflow**.
+> ⚠️ **Snake belum muncul?** Kamu perlu setup GitHub Actions dulu! Ikuti langkah di bawah 👇
 
 <details>
-<summary>📄 <b>Klik untuk lihat kode snake.yml</b></summary>
+<summary>🐍 <b>Setup Snake Animation</b></summary>
+
+<br/>
+
+Buat file baru di repo ini: `.github/workflows/snake.yml`
 
 ```yaml
 name: Generate Snake
@@ -192,11 +184,10 @@ jobs:
 ```
 
 **Langkah:**
-1. Buat file `.github/workflows/snake.yml` di repo **SOBING4413**
-2. Paste kode di atas
-3. Commit & push
-4. Buka tab **Actions** → klik **Generate Snake** → **Run workflow**
-5. Tunggu selesai, snake otomatis muncul! 🐍
+1. Buat file `.github/workflows/snake.yml`
+2. Paste kode di atas → Commit & Push
+3. Buka tab **Actions** → **Generate Snake** → **Run workflow**
+4. Tunggu selesai, snake otomatis muncul! 🎉
 
 </details>
 
