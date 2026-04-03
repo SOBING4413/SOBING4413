@@ -92,7 +92,7 @@ Status:    🎯 Focusing
 | Project | Description | Tech |
 |:--------|:-----------|:-----|
 | 📖 [**indonesian-word-dataset**](https://github.com/SOBING4413/indonesian-word-dataset) | KBBI wordlist extractor — Indonesian dictionary dataset | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/) |
-| 🔥 [**Xeno**](https://github.com/SOBING4413/Xeno) | Advanced tool built with C++ | [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/) |
+| 🔥 [**Xeno**](https://github.com/SOBING4413/Xeno) | Advanced tool built with C++ (Apache-2.0) | [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/) |
 
 </div>
 
@@ -102,14 +102,20 @@ Status:    🎯 Focusing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" />
+<a href="https://github.com/SOBING4413">
+  <img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" alt="SOBING's GitHub Stats" />
+</a>
+<a href="https://github.com/SOBING4413">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SOBING4413&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<a href="https://github.com/SOBING4413">
+  <img src="https://streak-stats.demolab.com/?user=SOBING4413&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -119,7 +125,9 @@ Status:    🎯 Focusing
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SOBING4413&theme=discord&no-frame=true&no-bg=true&column=7" />
+<a href="https://github.com/SOBING4413">
+  <img src="https://github-profile-trophy.vercel.app/?username=SOBING4413&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -129,7 +137,9 @@ Status:    🎯 Focusing
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SOBING4413&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
+<a href="https://github.com/SOBING4413">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOBING4413&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
+</a>
 
 </div>
 
@@ -142,23 +152,15 @@ Status:    🎯 Focusing
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
+> 💡 **Setup Snake:** Buat file `.github/workflows/snake.yml` di repo ini, paste kode di bawah, lalu jalankan dari tab **Actions** > **Generate Snake** > **Run workflow**.
+
 <details>
-<summary>⚙️ <b>Cara Setup Snake Animation (klik untuk expand)</b></summary>
-
-<br/>
-
-Buat file baru di repository **SOBING4413** kamu di path:
-
-```
-.github/workflows/snake.yml
-```
-
-Isi dengan kode berikut:
+<summary>📄 <b>Klik untuk lihat kode snake.yml</b></summary>
 
 ```yaml
 name: Generate Snake
@@ -189,16 +191,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Langkah-langkah:**
-1. Buat file di path `.github/workflows/snake.yml`
-2. Paste kode YAML di atas
+**Langkah:**
+1. Buat file `.github/workflows/snake.yml` di repo **SOBING4413**
+2. Paste kode di atas
 3. Commit & push
-4. Pergi ke tab **Actions** di repository kamu
-5. Klik **"Generate Snake"** di sidebar kiri
-6. Klik tombol **"Run workflow"** → **"Run workflow"**
-7. Tunggu selesai, snake akan muncul otomatis!
-
-> Snake akan auto-update setiap hari jam 00:00 UTC.
+4. Buka tab **Actions** → klik **Generate Snake** → **Run workflow**
+5. Tunggu selesai, snake otomatis muncul! 🐍
 
 </details>
 
@@ -206,7 +204,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SOBING4413&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=SOBING4413&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
