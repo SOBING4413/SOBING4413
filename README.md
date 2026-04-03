@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **SOBING**
+# Hallo tod, gue **SOBING**
 
 ### 🎮 Roblox Developer · 💻 Web Developer · 🛠️ Script Engineer
 
