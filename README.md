@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm **SOBING**
 
-### 🎮 Roblox Dveloper · 💻 Web Developer · 🛠️ Script Engineer
+### 🎮 Roblox Developer · 💻 Web Developer · 🛠️ Script Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=00&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Lua+Scripter+%7C+Roblox+Developer;JavaScript+%26+TypeScript+Builder;UI+Library+%26+Framework+Creator;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Lua+Scripter+%7C+Roblox+Developer;JavaScript+%26+TypeScript+Builder;UI+Library+%26+Framework+Creator;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -18,17 +18,17 @@
 
 ## 🧑‍💻 About Me
 
-``yaml
+```yaml
 Name:      SOBING
-Location: Indonesia 🇮🇩
-Focus:     Roblox Game Delopment & Web Projects
+Location:  Indonesia 🇮🇩
+Focus:     Roblox Game Development & Web Projects
 Hobbies:   Coding, Scripting, Building Tools & Frameworks
-Status:    🎯 Focusng
+Status:    🎯 Focusing
 ```
 
-- 🎮 Mainly developing **Roblx scripts, executors & game tools** using Lua
+- 🎮 Mainly developing **Roblox scripts, executors & game tools** using Lua
 - 🌐 Building **UI libraries & CSS frameworks** from scratch
-- 🛠️ Creating *eb tools** with JavaScript & TypeScript
+- 🛠️ Creating **web tools** with JavaScript & TypeScript
 - 🐍 Exploring **data processing** with Python (KBBI word extractor)
 - ⚡ Love turning ideas into working code!
 
@@ -38,7 +38,7 @@ Status:    🎯 Focusng
 
 <div align="center">
 
-[![Lua](https://img.shields.io/adge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lu.org/docs.html "Lua Documentation")
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/docs.html "Lua Documentation")
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "MDN JavaScript Docs")
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/ "TypeScript Documentation")
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS "MDN CSS Docs")
@@ -61,15 +61,15 @@ Status:    🎯 Focusng
 
 ## 🚀 Featured Projects
 
-<div align="cener">
+<div align="center">
 
 ### 🌐 Web & UI Projects
 
 | Project | Description | Tech |
-|:--------|:-----------|-----|
-| 🌐 [**Exter-Library**](https://github.com/SOBING4413/Exter-Library) | Custom UI Library for building user interfaces | ![UI](https://img.shields.io/badge/-UI_Library-6C63FF?style=flat-sqare) |
+|:--------|:-----------|:-----|
+| 🌐 [**Exter-Library**](https://github.com/SOBING4413/Exter-Library) | Custom UI Library for building user interfaces | ![UI](https://img.shields.io/badge/-UI_Library-6C63FF?style=flat-square) |
 | 🎨 [**ExterFramework**](https://github.com/SOBING4413/ExterFramework) | Custom CSS Framework for modern web styling | [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-| ⚡ [**SPEEDTEST**](https://github.com/SOBING4413/SPEEDTEST) | Internet speed testing tool | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScipt) |
+| ⚡ [**SPEEDTEST**](https://github.com/SOBING4413/SPEEDTEST) | Internet speed testing tool | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | 🧮 [**KALKULATOR**](https://github.com/SOBING4413/KALKULATOR) | Calculator application | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | 🖥️ [**GUI**](https://github.com/SOBING4413/GUI) | GUI system built with TypeScript | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
 
@@ -77,21 +77,21 @@ Status:    🎯 Focusng
 
 | Project | Description | Tech |
 |:--------|:-----------|:-----|
-| 🔧 [**Exter-Executor**](https://github.com/SOBING4413/Exter-Executor) | Script executor tool for Roblox | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
-| 🏎️ [**Drag-Drive-Simulator**](https://github.com/SOBING4413/Drag-Drive-Simulator) | Drag racing simulator scripts | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
-| 🎬 [**Animation-Menu**](https://github.com/SOBING4413/Animation-Menu) | Animated menu system for Roblox | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
+| 🔧 [**Exter-Executor**](https://github.com/SOBING4413/Exter-Executor) | Script executor tool for Roblox | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
+| 🏎️ [**Drag-Drive-Simulator**](https://github.com/SOBING4413/Drag-Drive-Simulator) | Drag racing simulator scripts | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
+| 🎬 [**Animation-Menu**](https://github.com/SOBING4413/Animation-Menu) | Animated menu system for Roblox | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
 | 🏙️ [**violence-district**](https://github.com/SOBING4413/violence-district) | Violence District game scripts | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🌍 [**Universa-v2**](https://github.com/SOBING4413/Universa-v2) | Univerl script v2 | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
-| 🎯 [**aimbot**](https://github.com/SOBING4413/aimbot) | Aim assist script | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
-| 🔗 [**sambungkata**](https://github.com/SOBING4413/sambungka | Sambung kata (word chain) game | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
+| 🌍 [**Universa-v2**](https://github.com/SOBING4413/Universa-v2) | Universal script v2 | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
+| 🎯 [**aimbot**](https://github.com/SOBING4413/aimbot) | Aim assist script | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
+| 🔗 [**sambungkata**](https://github.com/SOBING4413/sambungkata) | Sambung kata (word chain) game | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
 | 🌌 [**universal**](https://github.com/SOBING4413/universal) | Universal script collection | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🎮 [**Roblox**](https://github.com/SOBING4413/Roblox) | Roblox scripts collection | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.htm) |
+| 🎮 [**Roblox**](https://github.com/SOBING4413/Roblox) | Roblox scripts collection | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
 
 ### 🔬 Other Projects
 
 | Project | Description | Tech |
-|:--------|:-----------|-----|
-| 📖 [**indonesian-word-dataset**](https://github.com/SOBING4413/indonesian-word-dataset) | KBBI wordlist extractor — Indonesian dictionary dataset | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.or/3/) |
+|:--------|:-----------|:-----|
+| 📖 [**indonesian-word-dataset**](https://github.com/SOBING4413/indonesian-word-dataset) | KBBI wordlist extractor — Indonesian dictionary dataset | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/) |
 | 🔥 [**Xeno**](https://github.com/SOBING4413/Xeno) | Advanced tool built with C++ | [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/) |
 
 </div>
@@ -102,7 +102,7 @@ Status:    🎯 Focusng
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=e&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" />
 
 </div>
@@ -119,7 +119,7 @@ Status:    🎯 Focusng
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SOBING4413&theme=discord&no-frame=true&no-bg=tru&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=SOBING4413&theme=discord&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
@@ -132,6 +132,7 @@ Status:    🎯 Focusng
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOBING4413&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
 
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -146,7 +147,8 @@ Status:    🎯 Focusng
 
 </div>
 
-<details><summary>⚙️ <b>Cara Setup Snake Animation (klik untuk expand)</b></summary>
+<details>
+<summary>⚙️ <b>Cara Setup Snake Animation (klik untuk expand)</b></summary>
 
 <br/>
 
@@ -208,7 +210,7 @@ jobs:
 
 <br/><br/>
 
-**💜 Thanks for visiting my profie! 💜**
+**💜 Thanks for visiting my profile! 💜**
 
 *"The only way to do great work is to love what you do."*
 
