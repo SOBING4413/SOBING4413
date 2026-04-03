@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm **SOBING**
 
-### 🎮 Roblox Developer · 💻 Web Developer · 🛠️ Script Engineer
+### 🎮 Roblox Dveloper · 💻 Web Developer · 🛠️ Script Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Lua+Scripter+%7C+Roblox+Developer;JavaScript+%26+TypeScript+Enthusiast;UI+Framework+Builder;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=00&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Lua+Scripter+%7C+Roblox+Developer;JavaScript+%26+TypeScript+Builder;UI+Library+%26+Framework+Creator;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -18,17 +18,18 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
+``yaml
 Name:      SOBING
-Location:  Indonesia 🇮🇩
-Focus:     Roblox Game Development & Web Projects
-Hobbies:   Coding, Scripting, Building Tools
-Status:    Always Learning 🚀
+Location: Indonesia 🇮🇩
+Focus:     Roblox Game Delopment & Web Projects
+Hobbies:   Coding, Scripting, Building Tools & Frameworks
+Status:    🎯 Focusng
 ```
 
-- 🎮 Mainly developing **Roblox scripts, executors & game tools**
-- 🌐 Building **UI libraries, frameworks & web apps**
-- 🐍 Exploring **data processing** with Python
+- 🎮 Mainly developing **Roblx scripts, executors & game tools** using Lua
+- 🌐 Building **UI libraries & CSS frameworks** from scratch
+- 🛠️ Creating *eb tools** with JavaScript & TypeScript
+- 🐍 Exploring **data processing** with Python (KBBI word extractor)
 - ⚡ Love turning ideas into working code!
 
 ---
@@ -37,22 +38,22 @@ Status:    Always Learning 🚀
 
 <div align="center">
 
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/docs.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/)
+[![Lua](https://img.shields.io/adge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lu.org/docs.html "Lua Documentation")
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "MDN JavaScript Docs")
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/ "TypeScript Documentation")
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS "MDN CSS Docs")
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML "MDN HTML Docs")
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/ "Python Documentation")
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/ "C++ Documentation")
 
 </div>
 
 <div align="center">
 
-[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/docs)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
+[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/docs "Roblox Creator Docs")
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/ "Visual Studio Code")
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc "Git Documentation")
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/ "GitHub Docs")
 
 </div>
 
@@ -60,26 +61,38 @@ Status:    Always Learning 🚀
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="cener">
+
+### 🌐 Web & UI Projects
+
+| Project | Description | Tech |
+|:--------|:-----------|-----|
+| 🌐 [**Exter-Library**](https://github.com/SOBING4413/Exter-Library) | Custom UI Library for building user interfaces | ![UI](https://img.shields.io/badge/-UI_Library-6C63FF?style=flat-sqare) |
+| 🎨 [**ExterFramework**](https://github.com/SOBING4413/ExterFramework) | Custom CSS Framework for modern web styling | [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| ⚡ [**SPEEDTEST**](https://github.com/SOBING4413/SPEEDTEST) | Internet speed testing tool | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScipt) |
+| 🧮 [**KALKULATOR**](https://github.com/SOBING4413/KALKULATOR) | Calculator application | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| 🖥️ [**GUI**](https://github.com/SOBING4413/GUI) | GUI system built with TypeScript | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
+
+### 🎮 Roblox & Lua Projects
 
 | Project | Description | Tech |
 |:--------|:-----------|:-----|
-| 🌐 [**Exter-Library**](https://github.com/SOBING4413/Exter-Library) | Custom UI Library | ![UI](https://img.shields.io/badge/-UI_Library-6C63FF?style=flat-square) |
-| 🎨 [**ExterFramework**](https://github.com/SOBING4413/ExterFramework) | CSS Framework | [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-| ⚡ [**SPEEDTEST**](https://github.com/SOBING4413/SPEEDTEST) | Speed Testing Tool | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| 🧮 [**KALKULATOR**](https://github.com/SOBING4413/KALKULATOR) | Calculator App | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| 🖥️ [**GUI**](https://github.com/SOBING4413/GUI) | GUI System | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
-| 🌍 [**Universa-v2**](https://github.com/SOBING4413/Universa-v2) | Universal Script v2 | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
-| 🔧 [**Exter-Executor**](https://github.com/SOBING4413/Exter-Executor) | Script Executor | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🏎️ [**Drag-Drive-Simulator**](https://github.com/SOBING4413/Drag-Drive-Simulator) | Racing Simulator Scripts | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🎬 [**Animation-Menu**](https://github.com/SOBING4413/Animation-Menu) | Animated Menu System | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 📖 [**indonesian-word-dataset**](https://github.com/SOBING4413/indonesian-word-dataset) | KBBI Word Extractor | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/) |
-| 🔥 [**Xeno**](https://github.com/SOBING4413/Xeno) | Advanced C++ Tool | [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/) |
-| 🎯 [**aimbot**](https://github.com/SOBING4413/aimbot) | Aim Assist Script | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🎮 [**Roblox**](https://github.com/SOBING4413/Roblox) | Roblox Scripts Collection | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🔗 [**sambungkata**](https://github.com/SOBING4413/sambungkata) | Word Chain Game | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🏙️ [**violence-district**](https://github.com/SOBING4413/violence-district) | District Game Script | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🌌 [**universal**](https://github.com/SOBING4413/universal) | Universal Script | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
+| 🔧 [**Exter-Executor**](https://github.com/SOBING4413/Exter-Executor) | Script executor tool for Roblox | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
+| 🏎️ [**Drag-Drive-Simulator**](https://github.com/SOBING4413/Drag-Drive-Simulator) | Drag racing simulator scripts | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
+| 🎬 [**Animation-Menu**](https://github.com/SOBING4413/Animation-Menu) | Animated menu system for Roblox | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
+| 🏙️ [**violence-district**](https://github.com/SOBING4413/violence-district) | Violence District game scripts | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
+| 🌍 [**Universa-v2**](https://github.com/SOBING4413/Universa-v2) | Univerl script v2 | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
+| 🎯 [**aimbot**](https://github.com/SOBING4413/aimbot) | Aim assist script | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
+| 🔗 [**sambungkata**](https://github.com/SOBING4413/sambungka | Sambung kata (word chain) game | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.tml) |
+| 🌌 [**universal**](https://github.com/SOBING4413/universal) | Universal script collection | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
+| 🎮 [**Roblox**](https://github.com/SOBING4413/Roblox) | Roblox scripts collection | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.htm) |
+
+### 🔬 Other Projects
+
+| Project | Description | Tech |
+|:--------|:-----------|-----|
+| 📖 [**indonesian-word-dataset**](https://github.com/SOBING4413/indonesian-word-dataset) | KBBI wordlist extractor — Indonesian dictionary dataset | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.or/3/) |
+| 🔥 [**Xeno**](https://github.com/SOBING4413/Xeno) | Advanced tool built with C++ | [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/) |
 
 </div>
 
@@ -89,7 +102,7 @@ Status:    Always Learning 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=e&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" />
 
 </div>
@@ -106,7 +119,7 @@ Status:    Always Learning 🚀
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SOBING4413&theme=discord&no-frame=true&no-bg=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=SOBING4413&theme=discord&no-frame=true&no-bg=tru&column=7" />
 
 </div>
 
@@ -119,7 +132,6 @@ Status:    Always Learning 🚀
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOBING4413&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -134,12 +146,19 @@ Status:    Always Learning 🚀
 
 </div>
 
-> **⚠️ Untuk mengaktifkan Snake Animation:**
-> Buat file `.github/workflows/snake.yml` di repository SOBING4413 kamu, isi dengan kode YAML di bawah ini, lalu jalankan workflow dari tab Actions.
+<details><summary>⚙️ <b>Cara Setup Snake Animation (klik untuk expand)</b></summary>
 
-<!--
-Snake Workflow - Buat file .github/workflows/snake.yml dengan isi:
+<br/>
 
+Buat file baru di repository **SOBING4413** kamu di path:
+
+```
+.github/workflows/snake.yml
+```
+
+Isi dengan kode berikut:
+
+```yaml
 name: Generate Snake
 
 on:
@@ -166,7 +185,20 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+```
+
+**Langkah-langkah:**
+1. Buat file di path `.github/workflows/snake.yml`
+2. Paste kode YAML di atas
+3. Commit & push
+4. Pergi ke tab **Actions** di repository kamu
+5. Klik **"Generate Snake"** di sidebar kiri
+6. Klik tombol **"Run workflow"** → **"Run workflow"**
+7. Tunggu selesai, snake akan muncul otomatis!
+
+> Snake akan auto-update setiap hari jam 00:00 UTC.
+
+</details>
 
 ---
 
@@ -176,7 +208,7 @@ jobs:
 
 <br/><br/>
 
-**💜 Thanks for visiting my profile! 💜**
+**💜 Thanks for visiting my profie! 💜**
 
 *"The only way to do great work is to love what you do."*
 
