@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Green-themed header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c853,100:00e676&height=220&section=header&text=SOBING%20GANTENG&fontSize=42&fontColor=e0ffe0&fontAlignY=35&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=a5d6a7&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c853,100:00e676&height=220&section=header&text=SOBING&fontSize=42&fontColor=e0ffe0&fontAlignY=35&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=a5d6a7&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/SOBING4413">
