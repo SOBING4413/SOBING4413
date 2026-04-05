@@ -1,130 +1,100 @@
 <div align="center">
 
-# 👋 Hey, I'm **SOBING**
+<!-- Green-themed header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c853,100:00e676&height=220&section=header&text=SOBING%20GANTENG&fontSize=42&fontColor=e0ffe0&fontAlignY=35&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=a5d6a7&descAlignY=55&animation=fadeIn" width="100%" />
 
-### 🎮 Roblox Developer · 💻 Web Developer · 🛠️ Script Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Lua+Scripter+%7C+Roblox+Developer;JavaScript+%26+TypeScript+Builder;UI+Library+%26+Framework+Creator;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9nsub2yx4V)
-[![Instagram](https://img.shields.io/badge/Instagram-_sobing_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sobing_/)
-[![GitHub](https://img.shields.io/badge/GitHub-SOBING4413-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOBING4413)
+<!-- Typing SVG -->
+<a href="https://github.com/SOBING4413">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+tools+and+libraries+for+developers+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🌿 About Me
 
-```yaml
-Name:      SOBING
-Location:  Indonesia 🇮🇩
-Focus:     Roblox Game Development & Web Projects
-Hobbies:   Coding, Scripting, Building Tools & Frameworks
-Status:    🎯 Focusing
+```text
+🧑‍💻  Developer focused on frameworks and UI libraries
+🌱  Currently building open-source tools
+📂  Exploring software architecture and component design
+🎯  Goal: Create useful, reusable developer tools
 ```
 
-- 🎮 Mainly developing **Roblox scripts, executors & game tools** using Lua
-- 🌐 Building **UI libraries & CSS frameworks** from scratch
-- 🛠️ Creating **web tools** with JavaScript & TypeScript
-- 🐍 Exploring **data processing** with Python (KBBI word extractor)
-- ⚡ Love turning ideas into working code!
-
 ---
 
-## 🛠️ Tech Stack & Languages
+## 🛠️ Projects
 
-<div align="center">
-
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/docs.html "Lua Documentation")
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "MDN JavaScript Docs")
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/ "TypeScript Documentation")
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS "MDN CSS Docs")
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML "MDN HTML Docs")
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/ "Python Documentation")
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/ "C++ Documentation")
-
-</div>
-
-<div align="center">
-
-[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/docs "Roblox Creator Docs")
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/ "Visual Studio Code")
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc "Git Documentation")
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/ "GitHub Docs")
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌐 Web & UI Projects
-
-| Project | Description | Tech |
-|:--------|:-----------|:-----|
-| 🌐 [**Exter-Library**](https://github.com/SOBING4413/Exter-Library) | Custom UI Library for building user interfaces | ![UI](https://img.shields.io/badge/-UI_Library-6C63FF?style=flat-square) |
-| 🎨 [**ExterFramework**](https://github.com/SOBING4413/ExterFramework) | Custom CSS Framework for modern web styling | [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-| ⚡ [**SPEEDTEST**](https://github.com/SOBING4413/SPEEDTEST) | Internet speed testing tool | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| 🧮 [**KALKULATOR**](https://github.com/SOBING4413/KALKULATOR) | Calculator application | [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| 🖥️ [**GUI**](https://github.com/SOBING4413/GUI) | GUI system built with TypeScript | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
-
-### 🎮 Roblox & Lua Projects
-
-| Project | Description | Tech |
-|:--------|:-----------|:-----|
-| 🔧 [**Exter-Executor**](https://github.com/SOBING4413/Exter-Executor) | Script executor tool for Roblox | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🏎️ [**Drag-Drive-Simulator**](https://github.com/SOBING4413/Drag-Drive-Simulator) | Drag racing simulator scripts | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🎬 [**Animation-Menu**](https://github.com/SOBING4413/Animation-Menu) | Animated menu system for Roblox | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🏙️ [**violence-district**](https://github.com/SOBING4413/violence-district) | Violence District game scripts | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🌍 [**Universa-v2**](https://github.com/SOBING4413/Universa-v2) | Universal script v2 | [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
-| 🎯 [**aimbot**](https://github.com/SOBING4413/aimbot) | Aim assist script | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🔗 [**sambungkata**](https://github.com/SOBING4413/sambungkata) | Sambung kata (word chain) game | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🌌 [**universal**](https://github.com/SOBING4413/universal) | Universal script collection | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-| 🎮 [**Roblox**](https://github.com/SOBING4413/Roblox) | Roblox scripts collection | [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/docs.html) |
-
-### 🔬 Other Projects
-
-| Project | Description | Tech |
-|:--------|:-----------|:-----|
-| 📖 [**indonesian-word-dataset**](https://github.com/SOBING4413/indonesian-word-dataset) | KBBI wordlist extractor — Indonesian dictionary dataset | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/) |
-| 🔥 [**Xeno**](https://github.com/SOBING4413/Xeno) | Advanced tool built with C++ (Apache-2.0) | [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/) |
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/SOBING4413/FRAMEWORK">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SOBING4413&repo=FRAMEWORK&theme=dark&bg_color=0d1117&title_color=00e676&icon_color=00c853&text_color=a5d6a7&border_color=1b5e20&hide_border=false" />
+      </a>
+      <br/>
+      <sub>🏗️ A framework project</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SOBING4413/Exter-Library">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SOBING4413&repo=Exter-Library&theme=dark&bg_color=0d1117&title_color=00e676&icon_color=00c853&text_color=a5d6a7&border_color=1b5e20&hide_border=false" />
+      </a>
+      <br/>
+      <sub>🎨 UI Library — GPL-3.0 Licensed</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SOBING4413&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" height="180" alt="SOBING's GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
-  </picture>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=true&theme=dark&bg_color=0d1117&title_color=00e676&icon_color=00c853&text_color=a5d6a7&border_color=1b5e20&hide_border=false&count_private=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=dark&bg_color=0d1117&title_color=00e676&text_color=a5d6a7&border_color=1b5e20&hide_border=false" height="170" />
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SOBING4413&theme=dark&background=0d1117&ring=00e676&fire=00c853&currStreakLabel=00e676&sideLabels=a5d6a7&currStreakNum=e0ffe0&sideNums=e0ffe0&dates=4caf50&border=1b5e20" />
+
 </div>
 
+---
+
+## 🐍 Contribution Graph
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SOBING4413&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SOBING4413&bg_color=0d1117&color=00e676&line=00c853&point=a5d6a7&area_color=1b5e20&area=true&hide_border=false&custom_title=Contribution%20Activity" width="95%" />
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SOBING4413&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=SOBING4413&style=for-the-badge&color=00c853&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-**💜 Thanks for visiting my profile! 💜**
-
-*"The only way to do great work is to love what you do."*
+<!-- Green footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:00c853,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
