@@ -34,17 +34,6 @@
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOBING4413&theme=dark&background=0d1117&ring=00e676&fire=00c853&currStreakLabel=00e676&sideLabels=a5d6a7&currStreakNum=e0ffe0&sideNums=e0ffe0&dates=4caf50&border=1b5e20" />
 
-</div>
-
-<!-- Snake animation - requires GitHub Actions workflow (see setup instructions below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake.svg" />
-</picture>
-
-</div>
-
 ---
 
 ## 📈 Activity Graph
