@@ -23,13 +23,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SOBING4413&show_icons=true&theme=dark&bg_color=0d1117&title_color=00e676&icon_color=00c853&text_color=a5d6a7&border_color=1b5e20&hide_border=false&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBING4413&layout=compact&theme=dark&bg_color=0d1117&title_color=00e676&text_color=a5d6a7&border_color=1b5e20&hide_border=false" height="170" />
-
-<br/><br/>
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOBING4413&theme=dark&background=0d1117&ring=00e676&fire=00c853&currStreakLabel=00e676&sideLabels=a5d6a7&currStreakNum=e0ffe0&sideNums=e0ffe0&dates=4caf50&border=1b5e20" />
