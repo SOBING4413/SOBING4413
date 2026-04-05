@@ -21,31 +21,6 @@
 🎯  Goal: Create useful, reusable developer tools
 ```
 
----
-
-## 🛠️ Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/SOBING4413/FRAMEWORK">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SOBING4413&repo=FRAMEWORK&theme=dark&bg_color=0d1117&title_color=00e676&icon_color=00c853&text_color=a5d6a7&border_color=1b5e20&hide_border=false" />
-      </a>
-      <br/>
-      <sub>🏗️ A framework project</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/SOBING4413/Exter-Library">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SOBING4413&repo=Exter-Library&theme=dark&bg_color=0d1117&title_color=00e676&icon_color=00c853&text_color=a5d6a7&border_color=1b5e20&hide_border=false" />
-      </a>
-      <br/>
-      <sub>🎨 UI Library — GPL-3.0 Licensed</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -61,12 +36,6 @@
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
 <!-- Snake animation - requires GitHub Actions workflow (see setup instructions below) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOBING4413/SOBING4413/output/github-snake-dark.svg" />
@@ -75,56 +44,6 @@
 </picture>
 
 </div>
-
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║  ⚠️ SETUP INSTRUCTIONS FOR SNAKE ANIMATION                     ║
-║                                                                  ║
-║  The snake images above won't work until you set up the          ║
-║  GitHub Actions workflow. Follow these steps:                    ║
-║                                                                  ║
-║  1. In your repo, create the file:                               ║
-║     .github/workflows/snake.yml                                  ║
-║                                                                  ║
-║  2. Paste the workflow content below into that file               ║
-║                                                                  ║
-║  3. Go to your repo Settings > Actions > General                 ║
-║     → Set "Workflow permissions" to "Read and write permissions"  ║
-║                                                                  ║
-║  4. Go to Actions tab > "Generate Snake" > "Run workflow"        ║
-║                                                                  ║
-║  The workflow will also run automatically every 12 hours.        ║
-╚══════════════════════════════════════════════════════════════════╝
-
-snake.yml content:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ---
 
