@@ -1,26 +1,3 @@
-<div align="center">
-
-<!-- Green-themed header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c853,100:00e676&height=220&section=header&text=SOBING&fontSize=42&fontColor=e0ffe0&fontAlignY=35&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=a5d6a7&descAlignY=55&animation=fadeIn" width="100%" />
-
-<!-- Typing SVG -->
-<a href="https://github.com/SOBING4413">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+tools+and+libraries+for+developers+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-</div>
-
----
-
-## 🌿 About Me
-
-```text
-🧑‍💻  Developer focused on frameworks and UI libraries
-🌱  Currently building open-source tools
-📂  Exploring software architecture and component design
-🎯  Goal: Create useful, reusable developer tools
-```
-
 ## 📊 GitHub Stats
 
 
